@@ -10,6 +10,8 @@
 Lint/AssignmentInCondition:
   Enabled: false
 
+fdsafdhjfjlkalkjfljaljfjdal
+ljljl
 # Offense count: 1
 Lint/ShadowingOuterLocalVariable:
   Enabled: false
